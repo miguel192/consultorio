@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Consultorio</string>
+    <string name="paciente">Nombre Paciente</string>
+</resources>
